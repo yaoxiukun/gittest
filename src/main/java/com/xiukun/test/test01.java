@@ -5,5 +5,6 @@ public class test01 {
         System.out.println("大傻逼");
         System.out.println("大傻逼");
         System.out.println("大傻逼");
+        System.out.println("hotfix");
     }
 }
