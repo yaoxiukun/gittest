@@ -12,5 +12,6 @@ public class test01 {
         System.out.println("hotfix5");
         System.out.println("hotfix6");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
