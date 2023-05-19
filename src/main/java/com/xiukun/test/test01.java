@@ -14,5 +14,9 @@ public class test01 {
         System.out.println("push");
         System.out.println("pull");
          System.out.println("gengxin");
+
+
+
+        System.out.println("咦嘻嘻嘻嘻嘻嘻");
     }
 }
